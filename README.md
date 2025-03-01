@@ -4,3 +4,5 @@ Food Delivery App (Full Stack)  This is a full-stack food delivery application b
 ![Screenshot (460)](https://github.com/user-attachments/assets/93cdad6e-81d8-4358-a1ba-801e79934b83)
 ![Screenshot (462)](https://github.com/user-attachments/assets/d4158006-644e-427b-998e-4bf4281860a3)
 ![Screenshot (466)](https://github.com/user-attachments/assets/35f3277b-e07d-425b-9a6a-b2fe132c8b7b)
+![Screenshot (463)](https://github.com/user-attachments/assets/97ffff33-f3f0-418a-83c3-8e15d845800a)
+![Screenshot (464)](https://github.com/user-attachments/assets/c6ace01d-6053-4fef-ab55-312a0aea77a6)
